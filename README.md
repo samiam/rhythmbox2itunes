@@ -1,6 +1,6 @@
 rhythmbox2itunes
 ================
-# <pre>
+<pre>
 # I moved from Linux to MacOS.  I wrote this script to help move my
 # Rhythmbox playlists and library over to iTunes.  It may be of use to
 # someone else.  It only deals with the xml files; the songs
@@ -58,4 +58,4 @@ rhythmbox2itunes
 # http://www.assistanttools.com/articles/m3u_playlist_format.shtml
 # https://mail.gnome.org/archives/rhythmbox-devel/2005-February/msg00051.html
 # https://github.com/josh/itunes-library  (found late in game)
-# </pre>
+</pre>
